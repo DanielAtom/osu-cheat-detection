@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\bin\Release\cheat detection osu.exe.config
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\bin\Release\cheat detection osu.exe
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\bin\Release\cheat detection osu.pdb
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\bin\Release\Renci.SshNet.dll
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\bin\Release\Renci.SshNet.xml
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\obj\Release\cheat detection osu.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\obj\Release\cheat detection osu.csproj.CopyComplete
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\obj\Release\cheat detection osu.exe
+C:\Users\Daniel\Desktop\cheat detection osu\cheat detection osu\obj\Release\cheat detection osu.pdb
